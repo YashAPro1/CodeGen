@@ -36,7 +36,7 @@ function SideNav() {
         console.log(path)
     },[])
   return (
-    <div className='h-screen shadow-lg border '>
+    <div className='h-screen shadow-lg border bg-white '>
         <div className='flex justify-center items-center gap-2 mt-2 border-b p-1'>
             <div className="img">
                 <Image src ={'/logo.svg'} alt="logo" width={50} height={40}/>
