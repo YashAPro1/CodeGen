@@ -4,6 +4,9 @@
 
 ![Project Demo](./public/demo.gif)
 
+![video](https://github.com/user-attachments/assets/e2972a98-a74c-476e-9b87-a25fa2cf70c6)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
