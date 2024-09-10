@@ -2,7 +2,7 @@
 
 ## Project Demo
 
-[Watch the demo video](./public/video.mp4)
+![Project Demo](./public/demo.gif)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
